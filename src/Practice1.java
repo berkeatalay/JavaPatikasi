@@ -25,5 +25,6 @@ public class Practice1 {
 
         double sonuc = toplam /6;
         System.out.print("Ortalama Notunuz: "+sonuc);
+        System.out.print("Ortalama Notunuz: "+sonuc);
     }
 }
