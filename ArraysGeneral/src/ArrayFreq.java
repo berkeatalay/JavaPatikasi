@@ -1,5 +1,4 @@
 import java.util.Arrays;
-\
 
 public class ArrayFreq {
     public static void main(String[] args) {
@@ -7,7 +6,7 @@ public class ArrayFreq {
         boolean[] freq = new boolean[arr.length];
         Arrays.fill(freq, false);
 
-        
+
         for(int i=0;i<arr.length;i++){
             if (freq[i])
                 continue;
